@@ -11,3 +11,4 @@ pypdf
 geopy
 pandas
 pydantic
+google-generativeai   
